@@ -11,15 +11,7 @@
     "start": "NODE_ENV=production next start",
     "export": "next export"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/michael1011/next-qr.git"
-  },
-  "author": "michael1011",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/michael1011/next-qr/issues"
-  },
+ 
   "homepage": "https://github.com/michael1011/next-qr#readme",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
